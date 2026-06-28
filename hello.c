@@ -16,10 +16,6 @@ int main() {
     } else {
         printf("You wrote: %s\n", userInput);
     }
-
-//    printf("You wrote: %s\n", userInput);
+    
     return 0;
 }
-
-// variables are like this: int NAME = value;
-// this is a comment
