@@ -72,4 +72,4 @@ int main(int argc, char** argv) {
 }
 
 
-// compiled with "gcc main.c -o mi_ventana.exe -mwindows"
+// compiled with "gcc main.c -o window.exe -mwindows"
