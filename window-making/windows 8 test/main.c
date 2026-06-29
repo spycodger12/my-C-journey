@@ -70,3 +70,6 @@ int main(int argc, char** argv) {
 
     return (int)msg.wParam;
 }
+
+
+// compiled with "gcc main.c -o mi_ventana.exe -mwindows"
